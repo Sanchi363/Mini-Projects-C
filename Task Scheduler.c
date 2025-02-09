@@ -1,3 +1,4 @@
+//A small task scheduler made using priortiy queue.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
